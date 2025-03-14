@@ -77,7 +77,7 @@ for _ in range(168):
     sim.simulate_hour()
 ```
 
-## ⚙️ System Behavior
+## System Behavior
 
 ### Key Features
 - **Automatic Shutoff**  
